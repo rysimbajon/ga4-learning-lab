@@ -22,7 +22,9 @@ export default function RootLayout({ children }) {
             window.gtag = gtag;
 
             gtag('js', new Date());
-            gtag('config', 'G-1TTB3GN99D');
+              gtag('config', 'G-1TTB3GN99D', {
+                  debug_mode: true
+                });
           `}
         </Script>
       </head>
