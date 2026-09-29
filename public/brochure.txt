@@ -1,0 +1,8 @@
+GA4 Learning Lab - Sample Brochure
+
+This file exists so we can practice GA4 file_download tracking.
+
+Products:
+- ADV160
+- iPhone 15 Pro
+- TP-Link AX3000

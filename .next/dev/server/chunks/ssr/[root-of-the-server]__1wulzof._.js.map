@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///Users/rysimbajon/Downloads/ga4-learning-lab/app/about/page.js"],"sourcesContent":["export default function About() {\n  return (\n    <div className=\"container page narrow\">\n      <span className=\"eyebrow\">ABOUT</span>\n      <h1>About this lab</h1>\n      <p>\n        This site exists purely for learning. It intentionally contains common\n        interactions that we can instrument with GA4.\n      </p>\n      <ul>\n        <li>Page views</li>\n        <li>Navigation clicks</li>\n        <li>Product views</li>\n        <li>Internal search</li>\n        <li>File downloads</li>\n        <li>Form interactions</li>\n        <li>Custom events and parameters</li>\n      </ul>\n    </div>\n  );\n}"],"names":["About","className"],"mappings":";;;;;;AAAe,SAASA;IACtB,qBACE,8OAAC;QAAIC,WAAU;;0BACb,8OAAC;gBAAKA,WAAU;0BAAU;;;;;;0BAC1B,8OAAC;0BAAG;;;;;;0BACJ,8OAAC;0BAAE;;;;;;0BAIH,8OAAC;;kCACC,8OAAC;kCAAG;;;;;;kCACJ,8OAAC;kCAAG;;;;;;kCACJ,8OAAC;kCAAG;;;;;;kCACJ,8OAAC;kCAAG;;;;;;kCACJ,8OAAC;kCAAG;;;;;;kCACJ,8OAAC;kCAAG;;;;;;kCACJ,8OAAC;kCAAG;;;;;;;;;;;;;;;;;;AAIZ"}}]
+}
